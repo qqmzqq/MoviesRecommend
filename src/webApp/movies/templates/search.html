@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movies</title>
+    <style>
+        div {
+            float: left;
+            height: 450px;
+            width: 430px;
+        }
+    </style>
+</head>
+<body>
+<form action="/search" method="get">
+        <input type="text" name="id">
+        <input type="submit" value="搜索">
+</form>
+<br/>
+{% for movie in movies %}
+    <dd>
+        <div class="board-item-main">
+            <div class="board-item-content">
+                <div class="movie-item-info">
+                    <a><img src="{{ movie.image }}"></a>
+                    <h3 class="title"><a>No.{{ movie.index }}  {{ movie.title }}</a></h3>
+                    <p class="actor">主要演员:{{ movie.actor }}</p>
+                    <p class="time">上映时间:{{ movie.time }}</p>
+                    <p class="score">豆瓣评分:{{ movie.score }}</p>
+                </div>
+            </div>
+        </div>
+    </dd>
+{% endfor %}
+</body>
+</html>

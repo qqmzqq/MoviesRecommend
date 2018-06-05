@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6b50229-2d98-49e1-ba44-29276abd44f9" name="Default" comment="First push" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MoviesRecommend$MaoYan.coverage" NAME="MaoYan Coverage Results" MODIFIED="1528102285217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Spider" />
+    <SUITE FILE_PATH="coverage/MoviesRecommend$manage.coverage" NAME="manage Coverage Results" MODIFIED="1528102340363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/webApp" />
+    <SUITE FILE_PATH="coverage/MoviesRecommend$MakeData.coverage" NAME="MakeData Coverage Results" MODIFIED="1528107136261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Spider" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hadoop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MaoYan.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Spider/MaoYan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guava</find>
+      <find>hadoop</find>
+      <find>23</find>
+      <find>141410001</find>
+      <find>10001 10</find>
+      <find>int</find>
+      <find>10074</find>
+      <find>1,10074</find>
+      <find>10074,22</find>
+      <find>10001 31</find>
+      <find>10001 15</find>
+      <find>10002 2</find>
+      <find>DoubleWritable</find>
+      <find>double</find>
+      <find>53 998</find>
+      <find>3</find>
+      <find>14920,100</find>
+      <find>10249,100</find>
+      <find>package hadoop;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>IntWritable</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\MyCode\MoviesRecommend\src\main\java\hadoop</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/MyTest/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/PV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/hadoop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/RV1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/SM2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/SM3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/PC.java" />
+        <option value="$PROJECT_DIR$/0-PV/part-r-00000" />
+        <option value="$PROJECT_DIR$/3-SM3/part-r-00000" />
+        <option value="$PROJECT_DIR$/6-RV3/part-r-00000" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MaoYan/MaoYan.py" />
+        <option value="$PROJECT_DIR$/src/MaoYan/MaoYan.py" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/ReadFileTest.java" />
+        <option value="$PROJECT_DIR$/input/Matrix.txt" />
+        <option value="$PROJECT_DIR$/data/MaoYan.json" />
+        <option value="$PROJECT_DIR$/src/Spider/生成数据.py" />
+        <option value="$PROJECT_DIR$/results/7-Top10/part-r-00000" />
+        <option value="$PROJECT_DIR$/src/Spider/split.py" />
+        <option value="$PROJECT_DIR$/src/webApp/moves/views.py" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/migrations/urls.py" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/urls.py" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/Templates/index.html" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/src/webApp/webApp/settings.py" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/admin.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7248e9a6-e0df-42c1-a406-ce379751af12/console.sql" />
+        <option value="src:table:/8704c0b5/7248e9a6-e0df-42c1-a406-ce379751af12/main.movies_movieinfo" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/models.py" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/webApp/movies/views.py" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/b_SM1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/d_SM3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/a_PV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/f_RV2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/g_RV3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/h_Top10.java" />
+        <option value="$PROJECT_DIR$/src/Spider/InsertToDB.py" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/c_SM2.java" />
+        <option value="$PROJECT_DIR$/src/webApp/webApp/urls.py" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoop/e_RV1.java" />
+        <option value="$PROJECT_DIR$/src/Spider/MaoYan.py" />
+        <option value="$PROJECT_DIR$/src/Spider/MakeData.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-mirrors" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="24" />
+    <option name="width" value="3" />
+    <option name="height" value="26" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MoviesRecommend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesRecommend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesRecommend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesRecommend" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesRecommend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesRecommend" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/webApp/templates/movies" />
+      <recent name="$PROJECT_DIR$/src/webApp" />
+      <recent name="$PROJECT_DIR$/src/webApp/movies" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input" />
+      <recent name="$PROJECT_DIR$/src/main/java/hadoop" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MakeData">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="a_PV" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hadoop.a_PV" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput=input -Doutput=results/0-PV" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="b_SM1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hadoop.b_SM1" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput=input -Doutput=results/1-SM1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="c_SM2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hadoop.c_SM2" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput=results/1-SM1 -Doutput=results/2-SM2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="d_SM3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hadoop.d_SM3" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput=results/2-SM2 -Doutput=results/3-SM3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="e_RV1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hadoop.e_RV1" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput_sm=results/3-SM3 -Dinput_pv=results/0-PV -Doutput=results/4-RV1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="f_RV2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hadoop.f_RV2" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput=results/4-RV1 -Doutput=results/5-RV2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="g_RV3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hadoop.g_RV3" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput_uv=input -Dinput_rv=results/5-RV2 -Doutput=results/6-RV3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="h_Top10" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hadoop.h_Top10" />
+      <module name="hadoop" />
+      <option name="PROGRAM_PARAMETERS" value="-Dinput=results/6-RV3 -Doutput=results/7-Top10" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="InsertToDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hadoop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Spider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Spider/InsertToDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MakeData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hadoop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Spider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Spider/MakeData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MaoYan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hadoop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Spider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Spider/MaoYan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MaoYan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MaoYan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hadoop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MaoYan/MaoYan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hadoop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/webApp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/webApp/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="hadoop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/python36/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.a_PV" />
+      <item itemvalue="Application.b_SM1" />
+      <item itemvalue="Application.c_SM2" />
+      <item itemvalue="Application.d_SM3" />
+      <item itemvalue="Application.e_RV1" />
+      <item itemvalue="Application.f_RV2" />
+      <item itemvalue="Application.g_RV3" />
+      <item itemvalue="Application.h_Top10" />
+      <item itemvalue="Python.InsertToDB" />
+      <item itemvalue="Python.MakeData" />
+      <item itemvalue="Python.MaoYan" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MakeData" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.MaoYan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6b50229-2d98-49e1-ba44-29276abd44f9" name="Default" comment="" />
+      <created>1525080611133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525080611133</updated>
+      <workItem from="1525080616206" duration="21522000" />
+      <workItem from="1525142411410" duration="225000" />
+      <workItem from="1525142707587" duration="4269000" />
+      <workItem from="1527347133677" duration="75127000" />
+      <workItem from="1527700680212" duration="2495000" />
+      <workItem from="1527758503028" duration="865000" />
+      <workItem from="1527759569759" duration="951000" />
+      <workItem from="1527780452853" duration="1451000" />
+      <workItem from="1527815209252" duration="5061000" />
+      <workItem from="1527909393631" duration="1905000" />
+      <workItem from="1527914901851" duration="179000" />
+      <workItem from="1527915153254" duration="3728000" />
+      <workItem from="1528100653037" duration="3610000" />
+      <workItem from="1528173705197" duration="88000" />
+    </task>
+    <task id="LOCAL-00001" summary="First push">
+      <created>1527758768892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527758768892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First push">
+      <created>1527759719475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527759719475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121476000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1064" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50986344" side_tool="true" visible="true" weight="0.325054" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.1380597" />
+      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32937366" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="CxPath" order="9" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.20149253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962063" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969651" weight="0.3978159" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32829374" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CxGrid" order="8" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49013656" weight="0.25809935" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49241275" weight="0.32761312" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49074075" visible="true" weight="0.23454158" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="SciView" order="9" weight="0.32852808" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" sideWeight="0.5092593" side_tool="true" weight="0.19878604" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3572543" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Data View" order="9" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32937366" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="First push" />
+    <option name="LAST_COMMIT_MESSAGE" value="First push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Spider/MaoYan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/maven-mirrors/org/apache/hadoop/hadoop-common/2.8.1/hadoop-common-2.8.1-sources.jar!/org/apache/hadoop/io/IntWritable.java" />
+    <entry file="file:///usr/local/python36/lib/python3.6/random.py" />
+    <entry file="file://$PROJECT_DIR$/results/MaoYan.txt" />
+    <entry file="jar:///opt/maven-mirrors/org/apache/hadoop/hadoop-mapreduce-client-core/2.8.1/hadoop-mapreduce-client-core-2.8.1-sources.jar!/org/apache/hadoop/mapreduce/Mapper.java" />
+    <entry file="jar:///opt/jdk/src.zip!/java/util/TreeMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/Spider/split.py" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/moves/views.py" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/migrations/0002_auto_20180530_0648.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3a55c525-6d1b-47e0-a3a7-5086cba19dcf/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7248e9a6-e0df-42c1-a406-ce379751af12/console.sql" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/8704c0b5/7248e9a6-e0df-42c1-a406-ce379751af12/main.sqlite_master" />
+    <entry file="das://table:/8704c0b5/7248e9a6-e0df-42c1-a406-ce379751af12/main.auth_user" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/migrations/0002_recommended.py" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/8704c0b5/7248e9a6-e0df-42c1-a406-ce379751af12/main.movies_movieinfo" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/8704c0b5/7248e9a6-e0df-42c1-a406-ce379751af12/main.movies_movieinfo" />
+    <entry file="das://table:/8704c0b5/7248e9a6-e0df-42c1-a406-ce379751af12/main.movies_recommended" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/webApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/2-SM2/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/src/Spider/InsertToDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/0-PV/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/results/1-SM1/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/results/4-RV1/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/results/5-RV2/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/results/3-SM3/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/results/6-RV3/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/results/7-Top10/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/src/webApp/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" selection-start-line="15" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webApp/webApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="37" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webApp/movies/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="17" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/d_SM3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="23" selection-start-line="23" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/c_SM2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/b_SM1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/f_RV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="146" column="37" selection-start-line="146" selection-start-column="37" selection-end-line="146" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/h_Top10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/g_RV3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/e_RV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://7248e9a6-e0df-42c1-a406-ce379751af12/schema/main/table/movies_movieinfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Matrix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://7248e9a6-e0df-42c1-a406-ce379751af12/schema/main/table/movies_recommended">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Spider/MakeData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoop/a_PV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Spider/MaoYan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python (hadoop)|Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python|hadoop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
